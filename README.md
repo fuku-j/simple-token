@@ -20,7 +20,7 @@
 
 ### flow diagram
 
-![simple token](./docs/simple_token.pdf, "diagram")
+[simple token diagram](https://github.com/fuku-j/simple-token/blob/main/docs/simpe_token.pdf)
 
 - mermaid.js
 
