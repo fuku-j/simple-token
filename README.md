@@ -20,6 +20,10 @@
 
 ### flow diagram
 
+![simple flow](./docs/simple_diagram.png, "diagram")
+
+- mermaid.js
+
 ```mermaid
 graph LR
   subgraph "Contract Developer"
