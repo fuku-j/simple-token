@@ -20,7 +20,7 @@
 
 ### flow diagram
 
-![simple flow](./docs/simple_diagram.png, "diagram")
+![simple token](./docs/simple_token.pdf, "diagram")
 
 - mermaid.js
 
